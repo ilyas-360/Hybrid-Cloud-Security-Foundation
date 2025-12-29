@@ -27,5 +27,3 @@ Secure high-availability enterprise network designed to bridge on-premises infra
 **Ilyas Benkhadra**  
 *Cloud Security Engineer | AWS Infrastructure & Network Hardening*
 
-Ilyas Benkhadra
-Cybersecurity & Cloud Identity Engineering
