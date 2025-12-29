@@ -16,7 +16,7 @@ Secure high-availability enterprise network designed to bridge on-premises infra
 📁 **Repository Structure**
 - `configs/` - Core, Distribution, Access, Edge device configurations
 - `design-docs/` - Addressing plans and hybrid cloud design
-- `security-controls/` - Management plane hardening & policies
+- `security-control-plane/` - Management plane hardening & policies
 - `verification/` - Connectivity audits & security validation
 - `future-aws-integration/` - Terraform modules & VPN setup
 
